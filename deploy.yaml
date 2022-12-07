@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: simple-http
-        image: 255657835453.dkr.ecr.ap-northeast-2.amazonaws.com/pri_repo:latest
+        image: 255657835453.dkr.ecr.ap-northeast-2.amazonaws.com/pri_repo2:latest
         ports:
         - name: http
           containerPort: 80
